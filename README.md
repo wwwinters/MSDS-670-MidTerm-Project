@@ -6,3 +6,13 @@ This repository contains code, documentation and images for the Week 4 Project A
 - images &mdash; Plot images in png format
 - src &mdash; Jupyter lab notebook and PDF printout
 - videos &mdash; Presentation video
+
+---------------------------------------------------------------
+### Versions
+<br>python -- 3.11.7
+<br>pandas -- 2.0.3
+<br>matplotlib -- 3.7.2
+
+---------------------------------------------------------------
+### Author
+<br>Wiley Winters (wwinters@regis.edu)
